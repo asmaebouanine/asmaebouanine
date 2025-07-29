@@ -17,6 +17,7 @@ Feel free to reach out: <a href="mailto:contact.asbouani@gmail.com">contact.asbo
 
 ---
 <p align="center"><img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" /></p>
+---
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
@@ -44,10 +45,6 @@ Feel free to reach out: <a href="mailto:contact.asbouani@gmail.com">contact.asbo
 
 <p align="center">
   <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaebouanine&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaebouanine&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
