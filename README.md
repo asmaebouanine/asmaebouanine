@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my GitHub space! 👋</h1>
-<h2 align="center">nouhailaaziki</h2>
-
-<p align="center">I'm based in Morocco 🇲🇦</p>
+<h2 align="center">asmaebouanine</h2>
 
 ---
 
@@ -17,7 +15,7 @@
 ---
 
 <p align="center">
-  Feel free to reach out to me: <a href="mailto:contact.naziki@gmail.com">contact.naziki@gmail.com</a>
+  Feel free to reach out to me: <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
 
 ---
@@ -28,7 +26,7 @@
   <!-- School Badge -->
   <img src="https://img.shields.io/badge/School-1337-0078D7?style=flat&logo=education&logoColor=white" alt="1337 School" />&nbsp;
   <!-- Email Badge -->
-  <img src="https://img.shields.io/badge/Email-contact.naziki@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </p>
 
 <p align="center">
@@ -43,8 +41,9 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nouhailaaziki&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=radical)
 </p>
+
 
 <!--
 **asmaebouanine/asmaebouanine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
