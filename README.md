@@ -1,64 +1,79 @@
-<h1 align="center">Hello, I'm Asmae Bouanine</h1>
-<h3 align="center">1337 School (42 Network) Student | UM6P Affiliate</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6,145d9d&height=180&text=Hi,%20I'm%20Asmae%20Bouanine.&fontSize=28&fontAlignY=35&animation=twinkling" alt="header" width="100%" />
+
+<h3 align="center">👋 Welcome to my GitHub!</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&fontSize=30&fontAlignY=40" width="100%" alt="header" />
+  <img src="https://komarev.com/ghpvc/?username=asmaebouanine&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### About Me
-- 🏡 Based in Morocco
-- 💻 Currently mastering low-level programming and system administration
-- 🌱 Learning: C | Bash | Linux Systems | Algorithms
-- ✉️ Contact: [contact.bouanasmae@gmail.com](mailto:contact.bouanasmae@gmail.com)
-
----
-
-### Technical Skills
-**Core Competencies:**
-- C Programming
-- Linux Environment
-- Shell Scripting
-- Git Version Control
-
-**Familiar With:**
-- Python Basics
-- Docker Fundamentals
-- Makefile Automation
-
----
-
-### GitHub Activity
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=transparent&hide_title=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaebouanine&layout=compact&theme=transparent&hide_title=true" />
+  🇲🇦 Based in Morocco | 🎓 Student at <strong>1337 School</strong> (42 Network) | Affiliated with <strong>Mohammed VI Polytechnic University (UM6P)</strong>
 </p>
 
----
-
-### Connect
 <p align="center">
-  <a href="https://linkedin.com/in/asmaebouanine">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:contact.bouanasmae@gmail.com">
-    Email
-  </a>
-  •
-  <a href="https://github.com/asmaebouanine">
-    Projects
+  💻 Passionate about <strong>C programming</strong>, <strong>Linux</strong>, and <strong>shell scripting</strong>.
+</p>
+
+<p align="center">
+  🌱 Currently deepening my skills through hands-on projects and challenges at 1337, focusing on algorithms, system programming, and problem-solving.
+</p>
+
+<p align="center">
+  📫 Feel free to reach out: <a href="mailto:contact.bouanasmae@gmail.com">contact.bouanasmae@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/asmaebouanine" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
+<hr/>
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=30&section=footer" width="100%" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  </a>
 </p>
 
+<hr/>
 
+<h3 align="center">📊 GitHub Stats</h3>
 
-<!--
-**asmaebouanine/asmaebouanine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaebouanine&layout=compact&theme=blueberry" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=asmaebouanine&theme=blueberry" alt="GitHub Streak" />
+</p>
+
+<hr/>
+
+<h3 align="center">🎖️ 42 School Badge</h3>
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="42 Badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6,145d9d&height=30&section=footer" width="100%" />
 
 
