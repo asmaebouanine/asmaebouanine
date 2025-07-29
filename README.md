@@ -2,8 +2,7 @@
 
 <h3 align="center">Welcome to my GitHub space!</h3>
 
-<p align="center">I'm based in Morocco 🇲🇦</p>
-<p align="center">A student at 1337 coding school, part of the 42 Network, affiliated with Mohammed VI Polytechnic University (UM6P).</p>
+<p align="center">A student at 1337 coding school, part of the 42 Network.</p>
 <p align="center">Currently diving deep into programming and expanding my skills every day.</p>
 
 <p align="center">
