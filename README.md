@@ -1,38 +1,47 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Asmae%20Bounanine.&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
 
-<h3 align="center">Welcome to my GitHub!</h3>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
-<p align="center">Student at 1337 coding school, part of the 42 Network.</p>
-<p align="center">Passionate about programming and continuous learning.</p>
+### 👩‍💻 About Me
 
-<p align="center">
-📧 <a href="mailto:contact.asbouani@gmail.com">contact.asbouani@gmail.com</a>  
-&nbsp;&nbsp;|&nbsp;&nbsp;  
-<a href="https://linkedin.com/in/asmae-bouanine" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- Student at 1337 coding school, part of the 42 Network  
+- Passionate about programming and problem solving  
+- Focused on software development and systems programming  
+
+### 🛠️ Languages & Tools
+
+| Icon | Name   |
+|-------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> | C       |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> | Python  |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> | Git     |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> | Linux   |
+| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30"/> | Bash    |
+
+<p>Contact: <a href="mailto:contact.asbouani@gmail.com">contact.asbouani@gmail.com</a></p>
+<p>LinkedIn: <a href="https://linkedin.com/in/asmae-bouanine" target="_blank" rel="noopener noreferrer">asmae-bouanine</a></p>
+
+    </td>
+    <td width="40%" valign="top" align="center">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=radical" width="100%" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaebouanine&layout=compact&theme=radical" width="100%" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaebouanine&theme=radical" width="100%" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Languages & Tools</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" />
-  </a>
-</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=dark" alt="GitHub Stats" width="480" />
-</p>
+---
 
+<p align="center"><img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" /></p>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%" />
