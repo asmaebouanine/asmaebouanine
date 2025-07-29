@@ -47,5 +47,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6,145d9d&height=30&section=footer" width="100%" />
-
-
