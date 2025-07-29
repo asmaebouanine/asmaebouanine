@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=180&text=Hey,%20I'm%20Asmae%20Bouanine.&fontSize=24&fontAlignY=35&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=457fca,5691c8&height=180&text=Hey,%20I'm%20Asmae%20Bouanine.&fontSize=24&fontAlignY=35&animation=twinkling" alt="header" width="100%" />
 
 <h3 align="center">👩‍💻 Welcome to my GitHub space!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmaebouanine&label=Profile%20Views&color=203a43&style=flat" alt="asmaebouanine" />
+  <img src="https://komarev.com/ghpvc/?username=asmaebouanine&label=Profile%20Views&color=5691c8&style=flat" alt="asmaebouanine" />
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@ Affiliated with <strong>Mohammed VI Polytechnic University (UM6P)</strong> — M
 </p>
 
 <p align="center">
-💻 Focused on mastering low-level programming, problem-solving, and building robust system-level software.
+💻 Passionate about low-level programming, C development, and system engineering.
 </p>
 
 <p align="center">
-📬 <strong>Contact:</strong> <a href="mailto:contact.bouanasmae@gmail.com">contact.bouanasmae@gmail.com</a>
+📬 <strong>Reach me at:</strong> <a href="mailto:contact.bouanasmae@gmail.com">contact.bouanasmae@gmail.com</a>
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@ Affiliated with <strong>Mohammed VI Polytechnic University (UM6P)</strong> — M
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0f2027,203a43,2c5364&height=30&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=457fca,5691c8&height=30&section=footer" width="100%" />
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="42 stats badge - asbouani" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0f2027,203a43,2c5364&height=30&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=457fca,5691c8&height=30&section=footer" width="100%" />
 
 <h3 align="center">🛠️ Tools & Technologies:</h3>
 <p align="center">
@@ -45,8 +45,6 @@ Affiliated with <strong>Mohammed VI Polytechnic University (UM6P)</strong> — M
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-
-
 
 <!--
 **asmaebouanine/asmaebouanine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
