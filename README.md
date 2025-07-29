@@ -1,48 +1,45 @@
-<h1 align="center">Welcome to my GitHub space! 👋</h1>
-<h2 align="center">asmaebouanine</h2>
+# 💫 Welcome to my GitHub Space!  
+### ✨ *"Turning coffee into code since [year]"*  
+
+👩‍💻 **About Me:**  
+- 🔭 I’m currently working on **something cool**  
+- 🌱 I’m currently learning **React, Node.js, or [your tech]**  
+- 👯 I’m looking to collaborate on **open-source projects**  
+- 💬 Ask me about **web development, UI/UX, or [your expertise]**  
+- ⚡ Fun fact: **I [fun fact about you]**  
 
 ---
 
-<p align="center">
-  A student at <strong>1337 coding school</strong>, part of the <strong>42 Network</strong>,<br>
-  and affiliated with the <strong>Mohammed VI Polytechnic University (UM6P)</strong>
-</p>
+### 🛠️ Tech Stack  
+#### **Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 
-<p align="center">
-  I'm on an exciting journey diving deep into programming and constantly expanding my skills.
-</p>
+#### **Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
 
----
-
-<p align="center">
-  Feel free to reach out to me: <a href="mailto:your.email@example.com">your.email@example.com</a>
-</p>
-
----
-
-<p align="center">
-  <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/Location-Morocco-4CAF50?style=flat&logo=earth&logoColor=white" alt="Location" />&nbsp;
-  <!-- School Badge -->
-  <img src="https://img.shields.io/badge/School-1337-0078D7?style=flat&logo=education&logoColor=white" alt="1337 School" />&nbsp;
-  <!-- Email Badge -->
-  <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</p>
-
-<p align="center">
-  <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />&nbsp;
-  <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />&nbsp;
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" />
-</p>
+#### **Tools & Others:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-<p align="center">
-  <!-- GitHub Stats -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=radical)
-</p>
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+---
+
+### 🌍 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)  
+
+⭐ **Feel free to explore my repos and contribute!**  
 
 
 <!--
