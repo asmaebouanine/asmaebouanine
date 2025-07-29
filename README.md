@@ -1,5 +1,4 @@
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=asbouanin)]
-
+[![Student](https://img.shields.io/badge/🎓_Student-[Your_Name]-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/yourusername)
 <!--
 **asmaebouanine/asmaebouanine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
