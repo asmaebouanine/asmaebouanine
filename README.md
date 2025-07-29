@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hey,%20I'm%20asmae%20Abouanine.&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hey,%20I'm%20Asmae%20Bouanine.&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
 <samp>
 <h3 align="center"> Welcome to my GitHub space! </h3>
 
