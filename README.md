@@ -1,6 +1,6 @@
 # Hi, I'm Asmae Bouanine 👩‍💻
 
-👩‍💻 I'm a student at 1337 School, part of the 42 Network — passionate about programming and clean code. I'm on an exciting journey, diving deep into development and constantly expanding my skills.
+👩‍💻 I'm a student at 1337 School, part of the 42 Network — passionate about programming. I'm on an exciting journey, diving deep into development and constantly expanding my skills.
 
 ---
 
