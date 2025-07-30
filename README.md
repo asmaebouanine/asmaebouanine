@@ -23,6 +23,10 @@
 
 ---
 
+<p align="left"><img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" /></a></p>
+
+---
+
 ### 📈 My GitHub Stats
 
 <p align="center">
