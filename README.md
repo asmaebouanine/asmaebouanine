@@ -4,7 +4,7 @@
 
 <p align="center">
 👩‍💻 I'm a student at <strong>1337 coding school</strong>, part of the 42 Network.<br/>
-🌍 Based in Morocco | Passionate about programming and software development.<br/>
+ Passionate about programming and software development.<br/>
 📬 Reach me: <a href="mailto:contact.asbouani@gmail.com">contact.asbouani@gmail.com</a>
 </p>
 
