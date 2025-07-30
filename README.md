@@ -25,25 +25,21 @@ Every line of code I write is a step toward mastering the world of tech and inno
 
 ### 📫 Contact Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank">
-    <img alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:bouanasmaae@gmail.com">
-    <img alt="Email" height="30" src="https://github.com/user-attachments/assets/6e03e3f8-6b34-4dab-bf10-c4dccedb11be" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank">
+  <img alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bouanasmaae@gmail.com">
+  <img alt="Email" height="30" src="https://github.com/user-attachments/assets/6e03e3f8-6b34-4dab-bf10-c4dccedb11be" />
+</a>
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
 
 ---
 
@@ -64,3 +60,4 @@ Every line of code I write is a step toward mastering the world of tech and inno
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" />
 </p>
+
