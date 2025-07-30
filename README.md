@@ -41,17 +41,6 @@ I’m a passionate software engineering student at 1337 School, part of the 42 N
 
 ---
 
-## 🧩 Featured Projects
-
-- 🔧 [`libft`](https://github.com/asmaebouanine/libft): Custom C standard library.
-- 🖨 [`ft_printf`](https://github.com/asmaebouanine/ft_printf): Implementation of printf.
-- 📚 [`get_next_line`](https://github.com/asmaebouanine/get_next_line): Line-by-line file reader.
-- 🔀 [`push_swap`](https://github.com/asmaebouanine/push_swap): Sorting algorithm challenge.
-- 💻 [`minishell`](https://github.com/asmaebouanine/minishell): Custom Unix shell.
-- 🍴 [`philosophers`](https://github.com/asmaebouanine/philosophers): Dining philosophers simulation with threads and mutexes.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -70,11 +59,4 @@ I’m a passionate software engineering student at 1337 School, part of the 42 N
 
 ---
 
-### 🧠 Philosophy
-
-> "Great code is not just functional — it’s clean, readable, and robust."
-
-I code not just to make things work, but to understand how things *really* work — from memory to machine.
-
----
 
