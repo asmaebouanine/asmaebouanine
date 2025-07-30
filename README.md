@@ -28,6 +28,8 @@ Every line of code I write is a step toward mastering the world of tech and inno
 
 <a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 <a href="mailto:bouanasmaae@gmail.com">
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6e03e3f8-6b34-4dab-bf10-c4dccedb11be" />
+
 <br/>
 
 ---
@@ -36,9 +38,7 @@ Every line of code I write is a step toward mastering the world of tech and inno
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/6e03e3f8-6b34-4dab-bf10-c4dccedb11be" />
-     
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>     
 
 
 </p>
