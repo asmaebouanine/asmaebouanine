@@ -51,10 +51,3 @@ Every line of code I write is a step toward mastering the world of tech and inno
 </p>
 
 ---
-
-### ⚡ Personal Motto
-
-> “Stay curious. Code with intention. Grow through challenge.”  
-> — *Asmae Bouanine*
-
----
