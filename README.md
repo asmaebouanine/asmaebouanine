@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6,145d9d&height=180&text=Hi,%20I'm%20Asmae%20Bouanine.&fontSize=28&fontAlignY=35&animation=twinkling" alt="header" width="100%" />
 
 <h3 align="center">👩‍💻 Welcome to my GitHub!</h3>
 
@@ -7,7 +8,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 Hi, I'm **Asmae Bouanine**, a passionate and curious **Software Engineering student** at [1337 School](https://1337.ma), part of the [42 Network](https://42.fr).  
 I'm actively exploring **low-level programming**, **problem solving**, and building a strong foundation in **system-level development**.  
@@ -15,42 +16,46 @@ Every line of code I write is a step toward mastering the world of tech and inno
 
 ---
 
-### 🚀 Current Journey
+## 🚀 Current Journey
 
-- 🌱 I’m currently learning **C programming, systems, and Linux tools**
+- 🌱 Currently learning **C programming, systems, and Linux tools**
 - 🛠️ Building strong fundamentals through **42’s core projects**
-- 🔭 I’m focusing on crafting clean, maintainable code with optimized performance
-- 🧠 I'm passionate about **collaboration, open source, and growth through challenge**
+- 🔭 Focused on writing clean, maintainable, and optimized code
+- 🧠 Passionate about **collaboration**, **open source**, and **growth through challenge**
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
-<a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-<a href="mailto:bouanasmaae@gmail.com">
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6e03e3f8-6b34-4dab-bf10-c4dccedb11be" />
-
-<br/>
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>     
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:bouanasmaae@gmail.com">
+    <img alt="Email" src="https://github.com/user-attachments/assets/6e03e3f8-6b34-4dab-bf10-c4dccedb11be" width="35" />
+  </a>
 </p>
 
 ---
 
-<p align="left"><img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" /></a></p>
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+</p>
 
 ---
 
+## 🎓 42 Network Stats
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=react&hide_title=false" />
@@ -59,3 +64,4 @@ Every line of code I write is a step toward mastering the world of tech and inno
 </p>
 
 ---
+
