@@ -1,62 +1,80 @@
-<h1 align="center">Hi 👋, I'm Asmae Bouanine</h1>
-<h3 align="center">🎓 1337 Student | 🔧 System Programming Enthusiast | 🧠 Passionate about building and breaking things</h3>
+# Hi, I'm Asmae Bouanine 👩‍💻
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmaebouanine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+I’m a passionate software engineering student at 1337 School, part of the 42 Network. I thrive on clean code, system-level challenges, and building reliable, elegant solutions. My journey started with curiosity and quickly turned into a disciplined craft focused on learning, sharing, and evolving.
+
+---
+
+## 🚀 About Me
+
+- 🧠 I love low-level programming, problem solving, and Linux systems.
+- 🌱 Currently deepening my skills in C, data structures, and system design.
+- 👯 I’m open to collaboration on open-source or impactful projects.
+- 🛠️ Always building something meaningful — one project at a time.
+- 📌 42 Cursus Projects: `libft`, `ft_printf`, `get_next_line`, `push_swap`, `minishell`, `philosophers`, and more...
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on: **Minishell**, **Philosophers**, and other core 42 projects  
-- 🌱 I’m exploring: **Low-level system programming**, **Data structures in C**, and **Shell scripting**  
-- 💬 Ask me about: **C language**, **Memory management**, or any 42 core project  
-- 📁 All my work is here: [github.com/asmaebouanine](https://github.com/asmaebouanine)  
-- 📫 Reach me at: **asmae.bouanine@gmail.com**
-
----
-
-### 🤝 Connect With Me
-
-<a href="https://linkedin.com/in/asmae-bouanine" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-</a>
-
----
-
-### 🎓 My 1337 Badge
-
-<img src="https://badge.mediaplus.ma/greenbinary/abouanin" alt="1337 Badge" />
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left" style="margin-top: 12px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-</p>
-
----
-
-### 📊 GitHub Stats (Most Important Section)
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaebouanine&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=radical&hide_border=true" alt="Asmae's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaebouanine&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaebouanine&theme=radical" width="100%"/>
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaebouanine&theme=default" alt="GitHub Streak" />
+---
+
+## 🧩 Featured Projects
+
+- 🔧 [`libft`](https://github.com/asmaebouanine/libft): Custom C standard library.
+- 🖨 [`ft_printf`](https://github.com/asmaebouanine/ft_printf): Implementation of printf.
+- 📚 [`get_next_line`](https://github.com/asmaebouanine/get_next_line): Line-by-line file reader.
+- 🔀 [`push_swap`](https://github.com/asmaebouanine/push_swap): Sorting algorithm challenge.
+- 💻 [`minishell`](https://github.com/asmaebouanine/minishell): Custom Unix shell.
+- 🍴 [`philosophers`](https://github.com/asmaebouanine/philosophers): Dining philosophers simulation with threads and mutexes.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:asmae.bouanine@gmail.com" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://github.com/asmaebouanine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+---
+
+### 🧠 Philosophy
+
+> "Great code is not just functional — it’s clean, readable, and robust."
+
+I code not just to make things work, but to understand how things *really* work — from memory to machine.
+
+---
+
