@@ -28,7 +28,7 @@
 
 ### 📈 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=radical&hide_border=true" alt="Asmae's GitHub Stats" width="49%"/>
 </p>
 
