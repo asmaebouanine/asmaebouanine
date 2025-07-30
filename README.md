@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6,145d9d&height=180&text=Hi,%20I'm%20Asmae%20Bouanine.&fontSize=28&fontAlignY=35&animation=twinkling" alt="header" width="100%" />
 
 <h3 align="center">👩‍💻 Welcome to my GitHub!</h3>
 
@@ -63,7 +62,8 @@ Explore all my work here 👉 [github.com/asmaebouanine](https://github.com/asma
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 </p>
-
+---
+<p align="left"><img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" /></a></p>
 ---
 
 ### 📊 GitHub Stats
