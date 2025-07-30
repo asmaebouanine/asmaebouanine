@@ -1,16 +1,14 @@
 # Hi, I'm Asmae Bouanine 👩‍💻
 
-I’m a passionate software engineering student at 1337 School, part of the 42 Network. I thrive on clean code, system-level challenges, and building reliable, elegant solutions. My journey started with curiosity and quickly turned into a disciplined craft focused on learning, sharing, and evolving.
-
+👩‍💻 I'm a student at 1337 School, part of the 42 Network — passionate about programming and clean code. I'm on an exciting journey, diving deep into development and constantly expanding my skills.
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🧠 I love low-level programming, problem solving, and Linux systems.
 - 🌱 Currently deepening my skills in C, data structures, and system design.
 - 👯 I’m open to collaboration on open-source or impactful projects.
 - 🛠️ Always building something meaningful — one project at a time.
-- 📌 42 Cursus Projects: `libft`, `ft_printf`, `get_next_line`, `push_swap`, `minishell`, `philosophers`, and more...
 
 ---
 
