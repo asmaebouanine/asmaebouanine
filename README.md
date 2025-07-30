@@ -27,7 +27,7 @@ Every line of code I write is a step toward mastering the world of tech and inno
 ### 📫 Contact Me
 
 <a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-<a href="mailto:bouanasmaae@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>" /></a>
+<a href="mailto:bouanasmaae@gmail.com">
 <br/>
 
 ---
