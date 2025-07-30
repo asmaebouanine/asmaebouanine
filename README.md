@@ -24,19 +24,6 @@ Every line of code I write is a step toward mastering the world of tech and inno
 
 ---
 
-### 📌 My Projects
-
-Here are some of the milestone projects from the 42 Cursus:
-
-- 🔧 [**libft**](https://github.com/asmaebouanine/libft) — Reimplementing the standard C library  
-- 🖨️ [**ft_printf**](https://github.com/asmaebouanine/ft_printf) — A custom formatted output function in C  
-- 💥 [**push_swap**](https://github.com/asmaebouanine/push_swap) — Sorting algorithm with limited operations  
-- 🧬 [**minishell**](https://github.com/asmaebouanine/minishell) — Building a Unix shell from scratch
-
-Explore all my work here 👉 [github.com/asmaebouanine](https://github.com/asmaebouanine)
-
----
-
 ### 📫 Contact Me
 
 <a href="https://www.linkedin.com/in/asmae-bouanine/" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
@@ -45,22 +32,11 @@ Explore all my work here 👉 [github.com/asmaebouanine](https://github.com/asma
 
 ---
 
-### 🏫 I am a student at 1337:
-
-<p>
-  <img src="https://badge.mediaplus.ma/greenbinary/asmaebouanine" alt="asmaebouanine's 42 stats" />
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 </p>
 ---
 <p align="left"><img src="https://badge.mediaplus.ma/greenbinary/asbouani" alt="asbouani's 42 stats" /></a></p>
