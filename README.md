@@ -1,6 +1,7 @@
 # Hi, I'm Asmae Bouanine 👩‍💻
 
 👩‍💻 I'm a student at 1337 School, part of the 42 Network — passionate about programming and clean code. I'm on an exciting journey, diving deep into development and constantly expanding my skills.
+
 ---
 
 ### 🚀 About Me
@@ -12,7 +13,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -26,7 +27,7 @@
 
 ---
 
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asmaebouanine&show_icons=true&theme=radical&hide_border=true" alt="Asmae's GitHub Stats" width="49%"/>
@@ -39,7 +40,7 @@
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:asmae.bouanine@gmail.com" style="margin-right: 15px;">
